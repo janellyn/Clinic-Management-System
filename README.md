@@ -46,7 +46,7 @@ git clone https://github.com/janellyn/Clinic-Management-System.git
 
 ```xml
 <connectionStrings>
-  <add name="ClinicDB" connectionString="Data Source=DESKTOP-1DQOJH6;Initial Catalog=clinic_management;Integrated Security=True;" providerName="System.Data.SqlClient" />
+  <add name="ClinicDB" connectionString="Data Source=your-desktop;Initial Catalog=clinic_management;Integrated Security=True;" providerName="System.Data.SqlClient" />
 </connectionStrings>
 ```
 
